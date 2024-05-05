@@ -14,6 +14,14 @@ Highlights the top revenue-generating customers, aiding in customer relationship
 #### Top 5 Products by Revenue:
 Identifies the best-performing products in terms of revenue, guiding product management decisions.
 
+
+
+## YouTube Video Demo
+
+Watch the video demonstration on YouTube: [explaning of sales insight project using powerbi and SQL](https://youtu.be/8G0NWnxlpqM?si=CEpStoFUWSDPr1Ok)
+
+
+
 ## Getting Started
 
 ### Prerequisites
